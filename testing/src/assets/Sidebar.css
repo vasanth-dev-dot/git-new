@@ -1,0 +1,12 @@
+.sidebarcontainer{
+    width: 18%;
+    background-color: lightgreen;
+    height: 87vh;
+}
+
+ul li{
+    text-align: center;
+    padding: 10px 0px;
+    font-weight: 650;
+    cursor: pointer;
+}

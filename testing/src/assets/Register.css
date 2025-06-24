@@ -1,0 +1,28 @@
+.fromregisterone{
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 50px 0px 0px 280px;
+    border: 1px solid gray;
+    padding: 15px 20px;
+    border-radius: 5px;
+    width: 500px;
+}
+
+.fromregisterone input{
+  width: 100%;
+  border: 1px solid green;
+  padding: 0px 5px;
+  height: 30px;
+  border-radius: 3px;
+  margin-top: 7px;
+  margin-bottom: 10px;
+}
+
+.fromsubmitbtn button{
+    border: none;
+    padding: 8px 14px;
+    background-color: green;
+    border-radius: 5px;
+    margin: 7px auto;
+}
